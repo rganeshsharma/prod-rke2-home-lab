@@ -19,6 +19,8 @@ Deploy a Production ready RKE2 on your Home Lab (Windows, Linux or Mac)
 - Longhorn (Optional) – Cloud-native distributed block storage
 - Rancher (Optional) – UI-based Kubernetes cluster manager 
 
+**Check the Setup.md if for MacOS Specific bagrant setup**
+
 ## 📦 Setup
 # VMware Fusion VM Setup for RKE2 + Longhorn
 
