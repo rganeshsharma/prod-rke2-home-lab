@@ -14,6 +14,8 @@
 3. **Install Vagrant VMware Plugin:**
    ```bash
    vagrant plugin install vagrant-vmware-desktop
+   brew tap hashicorp/tap
+   brew install hashicorp/tap/hashicorp-vagrant
    ```
 
 ## Setup Steps
