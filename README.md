@@ -7,7 +7,7 @@ Deploy a Production ready RKE2 on your Home Lab (Windows, Linux or Mac)
 
 ## 🛠️ Tech Stack
 - RKE2 (Rancher Kubernetes Engine v2) – Lightweight, secure Kubernetes distribution
-- VMware Fusion / VirtualBox – Virtual machine hypervisor for running Linux VMs on macOS
+- VMware Fusion / VirtualBox – Virtual machine hypervisor for running Linux VMs on macOS/Windows
 - Ubuntu 22.04 LTS – VM operating system (minimal install)
 - Vagrant – VM provisioning and automation
 - Shell Script / Ansible – Cluster bootstrapping and configuration
